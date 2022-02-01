@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 1.gif
 <p align='left'>
   <img src='demo/1.gif' width='3000'/>
 </p>
+
+## See more examples in demo folder
