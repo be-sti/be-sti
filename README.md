@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='left'>
-  <img src='demo/1.gif' width='2000'/>
+  <img src='demo/1.gif' width='3000'/>
 </p>
