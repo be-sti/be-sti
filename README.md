@@ -20,4 +20,15 @@ Here are some ideas to get you started:
   <img src='demo/1.gif' width='3000'/>
 </p>
 
+
+## 3.gif
+<p align='left'>
+  <img src='demo/3.gif' width='3000'/>
+</p>
+
+
+## 5.gif
+<p align='left'>
+  <img src='demo/5.gif' width='3000'/>
+</p>
 ## See more examples in demo folder
