@@ -1,4 +1,4 @@
-### Demo of BE-STI
+# Demo of BE-STI
 
 <!--
 **be-sti/be-sti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
