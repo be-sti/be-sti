@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-https://github.com/be-sti/be-sti/tree/main/demo/1.gif
+<p align='left'>
+  <img src='demo/1.gif' width='675'/>
+</p>
